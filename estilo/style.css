@@ -86,11 +86,11 @@ section.imagem>p{
 }
 
 section#background001{
-    background-image: url(/Desafios/d12/pacote-d012/imagens/background001.jpg);
+    background-image: url(/pacote-d012/imagens/background001.jpg);
     background-position: right center;
 }
 section#background002{
-    background-image: url(/Desafios/d12/pacote-d012/imagens/background002.jpg);
+    background-image: url(/pacote-d012/imagens/background002.jpg);
     background-position: left top;
 }
 
