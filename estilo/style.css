@@ -74,8 +74,7 @@ section.imagem{
     color: white;  
     box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.504);
     
-    background-size: cover;
-    background-attachment: fixed;
+    
 }
 
 section.imagem>p{
@@ -88,10 +87,14 @@ section.imagem>p{
 section#background001{
     background-image: url(/pacote-d012/imagens/background001.jpg);
     background-position: right center;
+    background-size: cover;
+    background-attachment: fixed;
 }
 section#background002{
     background-image: url(/pacote-d012/imagens/background002.jpg);
     background-position: left top;
+    background-size: cover;
+    background-attachment: fixed;
 }
 
 footer{
